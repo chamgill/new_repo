@@ -2,4 +2,6 @@ this is a test
 
 I am adding more text when within branch1
 
+Thi is another chnages to create a confilict.
+
 
