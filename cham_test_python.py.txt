@@ -2,4 +2,8 @@ this is a test
 
 I am adding more text when within branch1
 
-CONFLICT
+
+Thi is another chnages to create a confilict.
+
+
+>>>>>>> branch2
